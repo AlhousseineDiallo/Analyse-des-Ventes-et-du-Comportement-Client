@@ -32,3 +32,4 @@ Pour analyser efficacement les données, j'ai organisé mes tables de manière l
 Les différentes images suivantes nous donnent les besoins et de ce fait les spécificités qu'auront les futures Tableaux de bords:
   - Sales Dashboard:
     
+    
