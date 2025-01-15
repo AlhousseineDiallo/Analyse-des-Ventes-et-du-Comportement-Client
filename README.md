@@ -29,16 +29,17 @@ Pour analyser efficacement les données, j'ai organisé mes tables de manière l
 
 
 ## 3. Exigences:
-Les différentes images suivantes nous donnent les besoins et de ce fait les spécificités qu'auront les futures Tableaux de bords:
-  - Sales Dashboard:
+Cette partie décrit les spécifications pour construire deux tableaux de bords(dashboards) avec Tableau pour aider les parties prenantes, en incluant les directeurs et cadres de vente à analyser les performances de ventes ainsi que les clients.
+
+  - Tableau de bord des Ventes:
 ![Exigences du Tableau de Bord des Ventes](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/4d6147a20d5ec7de4f9043acf3d3447f7862ca87/image/Screenshot%202025-01-15%20021144.png)
 
 
-- Customer Dashboard:
+  - Tableau de bord des Clients:
 ![Exigences du Tableau de Bord des Clients](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/4d6147a20d5ec7de4f9043acf3d3447f7862ca87/image/Screenshot%202025-01-15%20005959.png)
 
 
-- Les critères de design et d'interactivités:
+  - Les critères de design et d'interactivités:
 ![](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/4d6147a20d5ec7de4f9043acf3d3447f7862ca87/image/Screenshot%202025-01-15%20022523.png)
 
     
