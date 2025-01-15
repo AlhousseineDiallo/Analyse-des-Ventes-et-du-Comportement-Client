@@ -7,7 +7,7 @@ Le projet est structuré comme suit:
 
 - **README.md**: Ce fichier fournit une vue d'ensemble du repo et donne les exigences ou besoins nécessaires à la bonne conduite du projet.
 - **src/**: Ce dossier contient les datasets(Ensembles de données) qui ont servi pour le projet et les fichiers liés à l'analyse.
-  - **data/**: contient les différents fichiers qui ont été utilisés pour ce projet.
+  - **EU-Dataset/**: contient les différents fichiers qui ont été utilisés pour ce projet.
   - **Tableau Dashboard/**: qui contient les différents tableaux de bords qui ont été générés conformément aux requêtes et exigences expliciter dans les requirements.
   - **Reporting/**: contient les différents rapports redigés lors de la création des tableaux de bords.
  
