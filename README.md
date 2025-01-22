@@ -188,6 +188,13 @@ Pour documenter le projet de manière lisible, le langage de balisage Markdown a
 ![Tableau de bord des clients](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/b50a5a52f35a541e9e91a2d1320ccea29e95e63c/src/images/Customer_dashboard.png)
 
 
+## Mode d'utilisation:
+
+Cette section fournit les instructions détaillées sur l'utilisation des tableaux de bords afin d'exploiter pleinement les fonctionnalités interactives. Vous y trouverez des explications sur la navigation entre les différents dashboards, l'utilisations des filtres dynamiques et d'autres options d'interaction pour une exploration efficace des données.
+
+- Navigation entre les tableaux de bords:
+
+
 
 
 
