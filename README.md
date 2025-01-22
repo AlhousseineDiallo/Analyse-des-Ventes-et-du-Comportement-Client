@@ -97,6 +97,49 @@ Pour assurer une analyse efficace et appronfondie des données, une modélisatio
 
   Cette capture d'écran du modèle permettra une meilleure compréhension de ce dernier:
   ![Modèle Relationnel](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/087dcc6dd71afe8bb8dcf471b3f292eeb8d57cc1/modele.relationnel.png)
+
+
+### Technologies utilisés:
+  Ce projet a été réalisé en utilisant les outils suivants pour l'analyse, la visualisation et la documentation des données:
+
+#### 1. Tableau Desktop Public:
+Tableau Desktop Public a été utilisé comme principal outil de visualisation et d'analyse des données. Il a permis notamment de:
+
+  - Construire des visualisations interactives et dynamiques a partir des données disponibles.
+
+  - Mettre en oeuvre une modélisation relationnelle efficace entre les tables(Orders, Customers, Products, Location).
+
+  - Concevoir des tableaux de bords exploitables avec un dynamisme et une interactivité de haut niveau pour obtenir des insights pertinents.
+
+  - **Pourquoi Tableau Desktop ?**
+
+    - Interface conviviale facilitant l'exploration et la création de visualisations.
+
+    - Capacités avancées d'analyse avec des fonctionnalités comme les calculs de champs(Table Calculation), les filtres interactifs et les paramètres.
+
+    - Compatibilité avec diverses sources de données.
+
+#### 2. Tableau Public (Cloud Gratuit)
+Les visualisations créées dans Tableau Desktop ont été publiées sur Tableau Public, une plateforme cloud gratuite permettant de partager les dashboards en ligne. Cette solution a permis de:
+  - Rendre les tableaux de bord accessibles via un simple lien web.
+
+  - Faciliter le partage et la consultation des insights par les parties prenantes sans nécessiter de logiciel supplémentaire.
+
+  - Bénéficier d’un hébergement sécurisé et accessible à tout moment
+
+**Notez que le lien vers le lien vers le dashboard se trouve dans le fichier: src/Tableau_Dashboard.md**
+
+#### 3. Markdown
+Pour documenter le projet de manière lisible, le langage de balisage Markdown a été utilisé afin de rédiger:
+
+  - Le README.md, qui fournit une vue d’ensemble du projet, incluant les objectifs, la méthodologie et les résultats attendus.
+
+  - Le Reportind.md, documentant le processus d’analyse, les insights clés et les recommandations.
+
+
+
+
+
   
 
 
