@@ -183,6 +183,10 @@ Pour documenter le projet de manière lisible, le langage de balisage Markdown a
 
 ## Aperçu des Tableaux de Bords:
 
+![Tableau de Bord des Ventes](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/b50a5a52f35a541e9e91a2d1320ccea29e95e63c/src/images/Sales_dashboard.png)
+
+![Tableau de bord des clients](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/b50a5a52f35a541e9e91a2d1320ccea29e95e63c/src/images/Customer_dashboard.png)
+
 
 
 
