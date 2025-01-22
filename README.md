@@ -96,6 +96,7 @@ Pour assurer une analyse efficace et appronfondie des données, une modélisatio
   - Table des localisations (Location): Elle regroupe les informations géographiques relatives aux ventes, telles que la région, le pays et la ville.
 
   Cette capture d'écran du modèle permettra une meilleure compréhension de ce dernier:
+  ![Modèle Relationnel](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/087dcc6dd71afe8bb8dcf471b3f292eeb8d57cc1/modele.relationnel.png)
   
 
 
