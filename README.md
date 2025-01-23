@@ -192,7 +192,11 @@ Pour documenter le projet de manière lisible, le langage de balisage Markdown a
 
 Cette section fournit les instructions détaillées sur l'utilisation des tableaux de bords afin d'exploiter pleinement les fonctionnalités interactives. Vous y trouverez des explications sur la navigation entre les différents dashboards, l'utilisations des filtres dynamiques et d'autres options d'interaction pour une exploration efficace des données.
 
+- Affichage des options de filtrages et de changement d'années:
+  - ![Pour afficher les options de filtrages, veuillez maintenir la touche Alt de votre clavier enfoncée et cliquez ensuite sur cette icône](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/31e416dc1c4184f952415c1fbec74ef66eca87c8/src/images/Icon%20-%20Filter%20Hidden.png)
+
 - Navigation entre les tableaux de bords:
+  
 
 
 
