@@ -1,15 +1,18 @@
-# Dashboard d'Analyse des ventes et des clients - Projet Data Analytics
-
+# Projet d'analyse des ventes et des clients
 ---
 
 ## Structure du Répertoire
 Le projet est structuré comme suit:
 
 - **README.md**: Ce fichier fournit une vue d'ensemble du répertoire github et donne les exigences ou besoins nécessaires à la bonne conduite du projet.
+
 - **src/**: Ce dossier contient les datasets(Ensembles de données) qui ont servi pour le projet et les fichiers qui ont résulté de mon analyse.
-  - **EU-Dataset/**: contient les différents fichiers qui ont été utilisés pour ce projet.
+  - **data/**: contient les différents fichiers qui ont été utilisés pour ce projet.
+
   - **Tableau Dashboard/**: qui contient les différents tableaux de bords qui ont été générés conformément aux requêtes et exigences expliciter dans les exigences et besoins.
+
   - **Reporting/**: constitue le rapport qui a émergé de ce projet, il présente notamment une interprètation détaillée des résultats qui ont découlé du tableau de bord, aussi il met en évidence les insights et les recommandations stratégiques et opérationnelles pour permettre à l'entreprise d'atteindre ses objectifs.
+  - **images/**: contient toutes les images qui ont été utilisé lors dans ce fichier.
  
 ## Introduction
 Bienvenue dans le projet d'Analyse des Ventes et du Comportement Client. Ce projet retrace le parcours d'une analyse approfondie visant à décrypter les performances commerciales et le comportement des Clients d'une entreprise de la grande distribution, acteur majeur de son secteur et basé aux États-Unis. Vous trouverez tout au long de votre cheminement les données utilisées, un rapport détaillé ainsi qu'un tableau de bord interactif, permettant d'appréhender les ventes et les clients sous toutes les coutures.
