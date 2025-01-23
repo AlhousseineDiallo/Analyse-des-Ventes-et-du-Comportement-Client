@@ -193,12 +193,30 @@ Pour documenter le projet de manière lisible, le langage de balisage Markdown a
 Cette section fournit les instructions détaillées sur l'utilisation des tableaux de bords afin d'exploiter pleinement les fonctionnalités interactives. Vous y trouverez des explications sur la navigation entre les différents dashboards, l'utilisations des filtres dynamiques et d'autres options d'interaction pour une exploration efficace des données.
 
 - Affichage des options de filtrages et de changement d'années:
-  - ![Pour afficher les options de filtrages, veuillez maintenir la touche Alt de votre clavier enfoncée et cliquez ensuite sur cette icône](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/31e416dc1c4184f952415c1fbec74ef66eca87c8/src/images/Icon%20-%20Filter%20Hidden.png)
+- Pour afficher les options de filtrages, veuillez maintenir la touche Alt de votre clavier enfoncée et cliquez ensuite sur cette icône
+![](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/31e416dc1c4184f952415c1fbec74ef66eca87c8/src/images/Icon%20-%20Filter%20Hidden.png)
 
-- Navigation entre les tableaux de bords:
-  
+- Pour masquer les options de filtrages, veuillez maintenir la touche Alt enfoncée et cliquez ensuite sur cette icône:
+  ![](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/6aeced65b53d626ac30c32710d8e632b0b11519a/src/images/Icon%20-%20Filter%20Shown.png)
 
+- Logo de l'entreprise:
+  ![](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/6aeced65b53d626ac30c32710d8e632b0b11519a/src/images/Icon%20-%20Logo.png)
 
+- Navigation entre les différents tableaux de bords:
+- Lorsque le tableau de bord des ventes est actif, en d'autres si c'est ce dernier qui est à l'image, ce sera indiqué par:
+![](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/6aeced65b53d626ac30c32710d8e632b0b11519a/src/images/Icon%20-%20Sales%20Dashboard(active).png)
+
+- Pour passer au tableau de bord des clients, il suffit de maintenir la touche Alt enfoncée et de cliquer sur cette image:
+![](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/6aeced65b53d626ac30c32710d8e632b0b11519a/src/images/Icon%20-%20Customer%20Dashboard.png)
+
+- Lorsque le tableau de bord des ventes est actif, ce sera indiqué par l'icône suivante:
+![](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/6aeced65b53d626ac30c32710d8e632b0b11519a/src/images/Icon%20-%20Customer%20Dashboard%20(active).png)
+
+- Pour naviguer vers le tableau de bord des ventes il vous suffit de maintenir la touche Alt enfoncée et de cliquer sur l'icône suivante:
+![](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/6aeced65b53d626ac30c32710d8e632b0b11519a/src/images/Icon%20-%20Sales%20Dashboard.png)
+
+**Lien vers le Tableau de bord des clients :**
+[Consulter le tableau de bord des ventes](https://public.tableau.com/app/profile/ahlousseine.diallo/viz/Project_17369823767820/Salesdashboard#1)
 
 
 
