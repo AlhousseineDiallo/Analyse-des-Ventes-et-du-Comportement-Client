@@ -7,18 +7,27 @@ Le projet est structuré comme suit:
 - **README.md**: Ce fichier fournit une vue d'ensemble du répertoire github et donne les exigences ou besoins nécessaires à la bonne conduite du projet.
 
 - **src/**: Ce dossier contient les datasets(Ensembles de données) qui ont servi pour le projet et les fichiers qui ont résulté de mon analyse.
-  - **data/**: contient les différents fichiers qui ont été utilisés pour ce projet.
+  - **data**: contient les différents fichiers qui ont été utilisés pour ce projet.
 
-  - **Tableau Dashboard/**: qui contient les différents tableaux de bords qui ont été générés conformément aux requêtes et exigences expliciter dans les exigences et besoins.
+  - **Tableau_Dashboard.md**: qui contient les différents tableaux de bords qui ont été générés conformément aux exigences expliciter par les dirigeants.
 
-  - **Reporting/**: constitue le rapport qui a émergé de ce projet, il présente notamment une interprètation détaillée des résultats qui ont découlé du tableau de bord, aussi il met en évidence les insights et les recommandations stratégiques et opérationnelles pour permettre à l'entreprise d'atteindre ses objectifs.
-  - **images/**: contient toutes les images qui ont été utilisé lors dans ce fichier.
+  - **Reporting.md**: constitue le rapport qui a émergé de ce projet, il présente notamment une interprètation détaillée des résultats qui ont découlés des tableau de bord, aussi il met en évidence les insights et les recommandations stratégiques et opérationnelles pour permettre à l'entreprise d'atteindre ses objectifs.
+  - **images**: il s'agit de l'utilitaire.
  
 ## Introduction
 Bienvenue dans le projet d'Analyse des Ventes et du Comportement Client. Ce projet retrace le parcours d'une analyse approfondie visant à décrypter les performances commerciales et le comportement des Clients d'une entreprise de la grande distribution, acteur majeur de son secteur et basé aux États-Unis. Vous trouverez tout au long de votre cheminement les données utilisées, un rapport détaillé ainsi qu'un tableau de bord interactif, permettant d'appréhender les ventes et les clients sous toutes les coutures.
 
 
-Dans un environnement commercial de plus en plus concurrentiel, une compréhension fine des performances des ventes et du comportement, des tendances de la clientèle est devenue un enjeu crucial voire capital. Ainsi ce projet a pour vocation de fournir une vision claire et nette des indicateurs clés de performance (KPI), des tendances et évolutions temporelles des ventes et du comportement des clients.
+Dans un environnement commercial de plus en plus concurrentiel, une compréhension fine des performances des ventes et du comportement, des tendances de la clientèle est devenue un enjeu crucial voire capital. Ainsi ce projet a pour objectif de fournir une vision claire et nette des indicateurs clés de performance (KPI), des tendances et évolutions temporelles des ventes et du comportement des clients.
+
+En s'appuyant sur une méthodologie rigoureuse d'analyse de données et de visualisations interactives, ce projet a pour but d'identifier les leviers de croissances, d'optimiser les stratégies marketing et commerciales, et in fine, de fournir une base solide pour la prise de décisions stratégiques. Les tableaux de bords interactifs des ventes et des clients constituent les pièces maitresses de ce projet en ce sens qu'ils offrent une exploration dynamique des KPI(indicateurs clés de performance), des tendances des ventes, des segments clients, etc. Par ailleurs le rapport analyse en détail les résultats et, retrace les différentes étapes du projet et propose des recommandations concrètes pour l'amélioration des performances. En somme l'objectif central est de fournir des insights basés sur les données pour aider à la prise de décisions stratégiques et à l'optimisation des performances.
+
+**Lien vers le Tableau de bord des ventes :**
+[Consulter le tableau de bord des ventes](https://public.tableau.com/app/profile/ahlousseine.diallo/viz/Project_17369823767820/Salesdashboard#1)
+
+**Lien vers le Tableau de bord des clients:** 
+[Consulter le tableau de bord des clients](https://public.tableau.com/app/profile/ahlousseine.diallo/viz/Project_17369823767820/Salesdashboard)
+
 
 ## Objectifs du Projet:
 Ce projet poursuit les objectifs suivant:
@@ -124,6 +133,9 @@ Le tableau de bord des Clients vise à fournir un aperçu des données clients, 
 - Filtres de données:
   - Le tableau de bord devra permettre aux utilisateurs de filtrer les données en fonction des informations sur les produits, telles que la catégorie et la sous-catégorie, ainsi qu'en fonction des informations géographiques, telles que la région, l'État et la ville.
 
+**Lien vers le Tableau de bord des clients :**
+[Consulter le tableau de bord des ventes](https://public.tableau.com/app/profile/ahlousseine.diallo/viz/Project_17369823767820/Salesdashboard#1)
+
 
 ## Méthodologie
 
@@ -151,10 +163,10 @@ Pour assurer une analyse efficace et appronfondie des données, une modélisatio
 
 #### 1. Tableau Desktop Public:
 Tableau Desktop Public a été utilisé comme principal outil de visualisation et d'analyse des données. Il a permis notamment de:
+  - Mettre en oeuvre une modélisation relationnelle(par le biais de jointures) efficace entre les tables(Orders, Customers, Products, Location).
 
   - Construire des visualisations interactives et dynamiques a partir des données disponibles.
 
-  - Mettre en oeuvre une modélisation relationnelle efficace entre les tables(Orders, Customers, Products, Location).
 
   - Concevoir des tableaux de bords exploitables avec un dynamisme et une interactivité de haut niveau pour obtenir des insights pertinents.
 
@@ -177,7 +189,7 @@ Les visualisations créées dans Tableau Desktop ont été publiées sur Tableau
 **Notez que le lien vers le lien vers le dashboard se trouve dans le fichier: src/Tableau_Dashboard.md**
 
 #### 3. Markdown
-Pour documenter le projet de manière lisible, le langage de balisage Markdown a été utilisé afin de rédiger:
+Pour documenter le projet de manière claire et lisible, le langage de balisage Markdown a été utilisé afin de rédiger:
 
   - Le README.md, qui fournit une vue d’ensemble du projet, incluant les objectifs, la méthodologie et les résultats attendus.
 
@@ -219,8 +231,7 @@ Cette section fournit les instructions détaillées sur l'utilisation des tablea
   - Pour naviguer vers le tableau de bord des ventes il vous suffit de maintenir la touche Alt enfoncée et de cliquer sur l'icône suivante:
 ![](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/6aeced65b53d626ac30c32710d8e632b0b11519a/src/images/Icon%20-%20Sales%20Dashboard.png)
 
-**Lien vers le Tableau de bord des clients :**
-[Consulter le tableau de bord des ventes](https://public.tableau.com/app/profile/ahlousseine.diallo/viz/Project_17369823767820/Salesdashboard#1)
+
 
 
 
