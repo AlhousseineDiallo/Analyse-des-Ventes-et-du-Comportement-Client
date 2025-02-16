@@ -82,3 +82,4 @@ Les données étant de haute qualité, aucun nettoyage n’a été nécessaire. 
 Aussi le  modèle relationnel repose sur le système (fact table + dimensions), ici en l'occurence notre fact table est la table Orders qui contient nos métriques clés et les dimensions sont les tables Products, Customers et Location qui vont toutes étres reliées à notre fact table par le biais des clés étrangères qu'elle contient(Customer ID, Product ID, Postal Code).
 
 Cette capture d'écran du modèle relationnelle permettra une meilleure compréhension de ce dernier.
+![Modèle Relationnel](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/087dcc6dd71afe8bb8dcf471b3f292eeb8d57cc1/modele.relationnel.png)
