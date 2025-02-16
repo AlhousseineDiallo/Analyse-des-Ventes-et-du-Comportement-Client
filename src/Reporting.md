@@ -50,7 +50,6 @@ Avant d'expliquer comment nous avons assemblé les différentes pièces, voici u
 2- **Location**: Cette table contient toutes les informations géographiques relatives aux commandes:
 -   Postal Code: C'est le code postal qui sert de clé primaire à cette table.ù le client a effectué sa commande.
 
-3- **Orders**: 
 
 -   Region: La région de laquelle le client a effectué sa commande.
 
@@ -58,7 +57,28 @@ Avant d'expliquer comment nous avons assemblé les différentes pièces, voici u
 
 -   City: Il s'agit de la ville d'où le client a effectué sa commande.
 
-3- **Orders**: 
+- Country/Region: Cette colonne spécifie l'état ou le pays depuis lequel la commande a été effectué.
 
 
->>>>>>> 488777ff61f705f1b3559f0e57532062d686c3af
+
+3- **Orders**: Il s'agit de la table qui se trouve au coeur de notre analyse, elle contient les principales métriques de notre ensemble de données:
+
+- Order ID: Un numéro unique qui identifie chaque commande, il constitue la clé primaire de notre table.
+
+- Order Date, Ship Date: Il s'agit des dates de commandes et d'expédition.
+
+- Sales, Profit, Quantity: Il s'agit respectivement du montant des ventes, du profit réalisé et de la quantité de produits par commande.
+
+- Customer ID: Il constitue un numéro unique associé à chaque client pour l'identifier de façon unique. Il est également présent en tant que clé primaire dans la table Customers et jouera par conséquent le rôle de clé étrangère pour relier cette table à la table Customers
+
+- Postal Code: Il s'agit du code postal du lieu d'où la commande a été faite, il sert de clé étrangère qui nous permet de relier les commandes aux localisations dans la table Location.
+
+- Product ID: Il s'agit de l'identifiant du produit commandé, il est une clé étrangère qui relie la table Orders à la table Products.
+
+
+#### Jointures réalisées:
+Les données étant de haute qualité, aucun nettoyage n’a été nécessaire. Elles ont été importées telles quelles dans Tableau après vérification de leur intégrité.
+
+Aussi le  modèle relationnel repose sur le système (fact table + dimensions), ici en l'occurence notre fact table est la table Orders qui contient nos métriques clés et les dimensions sont les tables Products, Customers et Location qui vont toutes étres reliées à notre fact table par le biais des clés étrangères qu'elle contient(Customer ID, Product ID, Postal Code).
+
+Cette capture d'écran du modèle relationnelle permettra une meilleure compréhension de ce dernier.
