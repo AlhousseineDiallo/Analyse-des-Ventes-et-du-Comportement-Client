@@ -201,7 +201,7 @@ Ce tableau de bord fournit une vue d'ensemble du comportement des clients, perme
     *   **Ventes totales par client** : Chiffre d'affaires moyen généré par client.
     *   **Nombre total de commandes** : Nombre total de commandes passées par tous les clients.
 *   Comme pour le tableau de bord des ventes, le pourcentage de variation par rapport à l'année précédente est affiché pour chaque KPI.
-    ![Screenshot KPI](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/5b644cc2187d46cdf9c08fa20464eabfbfc4f497/src/images/KPI.png)
+  ![Screenshot KPI](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/5b644cc2187d46cdf9c08fa20464eabfbfc4f497/src/images/KPI.png)
 *   **Description** : Cette section du tableau de bord présente les indicateurs clés de performance (KPI) pour l'année sélectionnée au niveau de la section filtre et l'année précédente. Chaque KPI (Nombre total de clients, Ventes totales par client, Nombre total de commandes) est affiché avec sa valeur actuelle et le pourcentage de variation par rapport à l'année précédente.
 
 ##### 3.5.2. 2 Tendances des clients :
