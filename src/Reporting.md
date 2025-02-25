@@ -207,14 +207,14 @@ Ce tableau de bord fournit une vue d'ensemble du comportement des clients, perme
 ##### 3.5.2. 2 Tendances des clients :
 *   Des graphiques linéaires montrent les tendances mensuelles des KPI des clients (nombre de clients, ventes par client, nombre de commandes) pour l'année en cours, c'est à dire celle sélectionnée dans la section filtre et l'année précédente.
 *   L'utilisateur peut survoler les points de données pour obtenir les valeurs exactes pour chaque mois.
-*   **[Screenshot Filtres]**
+*   **[Screenshot KPI et courbes de tendances]()**
 *   **Description** : Cette section présente les tendances mensuelles des trois KPI (Nombre total de clients, Ventes totales par client, Nombre total de commandes) pour l'année sélectionnée dans la section des filtres  (coloré en noir) et l'année précédente (coloré en gris clair). Des marqueurs circulaires de couleur(bleu, rouge) indiquent les mois avec la meilleure performance et la pire performance pour l'année en cours.
 
 
 ##### 3.5.2. 3 Répartition des clients :
 *   Un graphique circulaire interactif montre la distribution des clients en fonction du nombre de commandes qu'ils ont passées (par exemple, 1-2 commandes, 3-5 commandes, plus de 5 commandes).
 *   L'utilisateur peut cliquer sur un segment du graphique pour filtrer les autres visualisations et se concentrer sur un groupe de clients spécifique.
-*   **[Screenshot Filtres]()**
+*   **[Screenshot de l'histogramme]()**
 *   **Description** : Cette section nous permet de saisir la distribution des clients en fonction du nombre de commandes qu'ils ont passées et de détecter les tendances d'achats de nos clients.
 
 
@@ -226,7 +226,7 @@ Ce tableau de bord fournit une vue d'ensemble du comportement des clients, perme
     *   **Ventes actuelles** : Chiffre d'affaires total généré par le client pour l'année en cours.
     *   **Profit actuel** : Bénéfice total généré par le client pour l'année en cours.
     *   **Date de la dernière commande** : Date à laquelle le client a passé sa dernière commande.
-*   **[Screenshot Filtres]()**
+*   **[Screenshot du Tableau]()**
 *   **Description** : Ce tableau nous permet de déterminer les clients les plus rentables et les plus fidèles de l'entreprise et ainsi de pouvoir les cibler avec des campagnes de fidélisation et des offres promotionnelles.
 
 
