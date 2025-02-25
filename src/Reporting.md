@@ -214,7 +214,7 @@ Ce tableau de bord fournit une vue d'ensemble du comportement des clients, perme
 ##### 3.5.2. 3 Répartition des clients :
 *   Un graphique circulaire interactif montre la distribution des clients en fonction du nombre de commandes qu'ils ont passées (par exemple, 1-2 commandes, 3-5 commandes, plus de 5 commandes).
 *   L'utilisateur peut cliquer sur un segment du graphique pour filtrer les autres visualisations et se concentrer sur un groupe de clients spécifique.
-*   **![Screenshot de l'histogramme](src/images/Distribution.png)**
+*   **![Screenshot de l'histogramme](https://github.com/AlhousseineDiallo/Sales_Dashboard/blob/5b644cc2187d46cdf9c08fa20464eabfbfc4f497/src/images/Distribution.png)**
 *   **Description** : Cette section nous permet de saisir la distribution des clients en fonction du nombre de commandes qu'ils ont passées et de détecter les tendances d'achats de nos clients.
 
 
