@@ -236,6 +236,59 @@ Ce tableau de bord fournit une vue d'ensemble du comportement des clients, perme
 *   **Description** : Cette section du tableau de bord montre les différents filtres disponibles pour explorer les données. On peut voir des menus déroulants pour filtrer par année, catégorie de produit, sous-catégorie de produit, région, État et ville.
 
 
+
+## 4. Résultats et Analyses
+
+Cette section présente les principaux résultats de l'analyse des données, en s'appuyant sur les visualisations des tableaux de bord et en fournissant une interprétation détaillée des tendances et des insights.
+
+### 4.1 Analyse des Ventes
+
+#### 4.1.1 Performance Globale
+
+*   Croissance des ventes de **20,36%**(chiffre d'affaires total de 733K pour l'année en cours).
+*   Augmentation du profit total de **14,24%** soit une somme de **93K$**.
+*   Progression de la quantité vendue de **26,83%**.
+
+#### 4.1.2 Tendances Mensuelles
+
+*   Meilleures performances : **Novembre**, **Septembre**, **Octobre** (raisons possibles : soldes, événements saisonniers, campagnes marketing).
+*   Performances plus faibles : **Janvier**, **Février**, **Mars** (raisons possibles : baisse saisonnière, problèmes d'approvisionnement).
+*   Tendances des bénéfices similaires à celles des ventes, avec des variations dues à des fluctuations des coûts, variations des marges.
+
+#### 4.1.3 Performance des Produits
+
+*   Meilleures ventes pour l'année en cours: **Phones**, **Chairs**, **Blinders**.
+*   Meilleure profitabilité pour l'année en cours: **Copiers**, **Accessories**, **Phones**.
+*   Performance décevante pour l'année en cours: **Attaches ou Fixation(Fasteners)**.
+
+#### 4.1.4 Tendances Hebdomadaires
+
+*   Fluctuations significatives des ventes et des bénéfices.
+*   Semaines au-dessus de la moyenne : On remarque que les dernières semaines de l'année sont celles qui se situent le plus au dessus de la moyenne.
+*   Semaines en dessous de la moyenne : On remarque ici que ce sont les premières semaines de l'année qui se situent le plus au dessous de la moyenne.
+
+
+
+### 4.2 Analyse des Clients
+
+#### 4.2.1 Acquisition de Clients
+
+*   Augmentation du nombre de clients de **8,6%** (\[Nombre] clients uniques pour l'année en cours).
+
+#### 4.2.2 Comportement des Clients
+
+*   Majorité des clients ont effectué : entre **1** et **2** commandes.
+*   Clients fidèles : plus de **6** commandes.
+*   Valeur moyenne des commandes pour l'année en cours : **1687** 
+*   Chiffre d'affaires moyen par client : **1058$**.
+
+#### 4.2.3 Clients les Plus Rentables
+
+*   Les 10 clients les plus rentables : **10,43%** du chiffre d'affaire total.
+*   Client le plus rentable : **Nom: Raymond Buch** profit total de **6781$** pour l'année en cours.
+
+
+
 ## 5. Recommandations
 
 Sur la base de l'analyse approfondie des données de vente et de comportement des clients, les recommandations suivantes sont proposées pour améliorer les performances de l'entreprise, optimiser les stratégies marketing et de vente, et renforcer la fidélisation des clients.
