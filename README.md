@@ -1,4 +1,4 @@
-# Projet d'analyse des ventes et des clients
+# Projet Analyse des Ventes et du Comportement Client
 ---
 
 ## Structure du Répertoire
